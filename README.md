@@ -31,7 +31,7 @@ By completing this course, I’ll gain practical skills in:
 | Challenge | Title        | Link      | Key Skill                                         |
 | --------- | ------------ | --------- | ------------------------------------------------- |
 | 1         | 🚀 Linux CLI Lab – Rocket Command Missions (Luna & Mars) | 📂 [Repo](https://github.com/1suleyman/-Linux-CLI-Lab-Rocket-Command-Missions-Luna-Mars-/tree/main) | Custom CLI usage, sequential command automation, parameterized commands, verifying results with rocket-status and rocket-ls |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. project overview and objectives              |
+| 2         | 🛰️ Linux Shell Script Lab – Automating Rocket Launch with Bash | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Automating-Rocket-Launch-with-Bash/tree/main) | Writing Bash scripts, chmod +x, PATH configuration, automating CLI workflows, reusable scripting best practices |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. creating and running your first shell script |
 | 4         | Coming soon… | 📂 [Repo]() | e.g. defining and using variables in Bash         |
 | 5         | Coming soon… | 📂 Folder | e.g. passing command-line arguments               |
