@@ -33,7 +33,7 @@ By completing this course, I’ll gain practical skills in:
 | 1         | 🚀 Linux CLI Lab – Rocket Command Missions (Luna & Mars) | 📂 [Repo](https://github.com/1suleyman/-Linux-CLI-Lab-Rocket-Command-Missions-Luna-Mars-/tree/main) | Custom CLI usage, sequential command automation, parameterized commands, verifying results with rocket-status and rocket-ls |
 | 2         | 🛰️ Linux Shell Script Lab – Automating Rocket Launch with Bash | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Automating-Rocket-Launch-with-Bash/tree/main) | Writing Bash scripts, chmod +x, PATH configuration, automating CLI workflows, reusable scripting best practices |
 | 3         | 🧩 Linux Shell Script Lab – Working with Variables & Fixing Script Errors | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Working-with-Variables-Fixing-Script-Errors/tree/main) | Bash variable declaration, expansion with ${VAR}, debugging syntax errors, environment variables, case sensitivity in scripts |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. defining and using variables in Bash         |
+| 4         | 🧮 Linux Shell Script Lab – Command Line Arguments & Inputs | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Command-Line-Arguments-Inputs/tree/main) | Using positional parameters ($1, $2), dynamic variable substitution, debugging argument order, reusable Bash scripting |
 | 5         | Coming soon… | 📂 Folder | e.g. passing command-line arguments               |
 | 6         | Coming soon… | 📂 Folder | e.g. reading user inputs from the terminal        |
 | 7         | Coming soon… | 📂 Folder | e.g. performing arithmetic calculations           |
