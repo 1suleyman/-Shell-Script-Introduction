@@ -34,7 +34,7 @@ By completing this course, I’ll gain practical skills in:
 | 2         | 🛰️ Linux Shell Script Lab – Automating Rocket Launch with Bash | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Automating-Rocket-Launch-with-Bash/tree/main) | Writing Bash scripts, chmod +x, PATH configuration, automating CLI workflows, reusable scripting best practices |
 | 3         | 🧩 Linux Shell Script Lab – Working with Variables & Fixing Script Errors | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Working-with-Variables-Fixing-Script-Errors/tree/main) | Bash variable declaration, expansion with ${VAR}, debugging syntax errors, environment variables, case sensitivity in scripts |
 | 4         | 🧮 Linux Shell Script Lab – Command Line Arguments & Inputs | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Command-Line-Arguments-Inputs/tree/main) | Using positional parameters ($1, $2), dynamic variable substitution, debugging argument order, reusable Bash scripting |
-| 5         | Coming soon… | 📂 Folder | e.g. passing command-line arguments               |
+| 5         | 🧠 Linux Shell Script Lab – Arithmetic Operations & Expressions | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Arithmetic-Operations-Expressions/tree/main) | Arithmetic expansion $(( )), floating-point math with bc -l, expr usage, command-line arguments for dynamic calculations |
 | 6         | Coming soon… | 📂 Folder | e.g. reading user inputs from the terminal        |
 | 7         | Coming soon… | 📂 Folder | e.g. performing arithmetic calculations           |
 | 8         | Coming soon… | 📂 Folder | e.g. using KodeKloud Notes for quick references   |
