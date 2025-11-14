@@ -44,7 +44,7 @@ By completing this course, I’ll gain practical skills in:
 | --------- | ------------ | --------- | --------------------------------------------------------- |
 | 1         | 🔍 Linux Shell Script Lab – Conditional Logic & Decision Making | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Conditional-Logic-Decision-Making/tree/main) | Using if/elif/else, file and directory checks (-d, -f), numeric comparisons (-gt, -lt), input validation, and debugging logic |
 | 2         | 🔁 Linux Shell Script Lab – For Loops, File Iteration & Log Processing | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-For-Loops-File-Iteration-Log-Processing/tree/main) | Automating tasks with for loops, reading files, log processing with grep + wc -l, renaming files using sed, and pattern matching |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. using `while` loops for continuous execution         |
+| 3         | 🔁 Linux Shell Script Lab – While Loops, Status Checks & Menu-Driven Programs | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-While-Loops-Status-Checks-Menu-Driven-Programs/tree/main) | While-loop state polling, fixing loop syntax, interactive menu-driven scripts (read, infinite loop), conditional branching, sleep for polling |
 | 4         | Coming soon… | 📂 Folder | e.g. applying `case` statements for multi-condition logic |
 
 ---
