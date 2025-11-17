@@ -53,7 +53,7 @@ By completing this course, I’ll gain practical skills in:
 
 | Challenge | Title        | Link      | Key Skill                                          |
 | --------- | ------------ | --------- | -------------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. understanding and using the `#!` shebang line |
+| 1         | 🐚 Linux Shell Script Lab – Shebang, Shell Compatibility & Execution | [📂 Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Shebang-Shell-Compatibility-Script-Execution/tree/main)       | Shebang usage, interpreter selection, Bash vs sh differences, debugging incompatible scripts |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. managing and checking exit codes              |
 | 3         | Coming soon… | 📂 Folder | e.g. writing and calling functions                 |
 | 4         | Coming soon… | 📂 Folder | e.g. linting scripts with ShellCheck and IDE tips  |
