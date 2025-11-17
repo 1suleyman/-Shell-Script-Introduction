@@ -54,7 +54,7 @@ By completing this course, I’ll gain practical skills in:
 | Challenge | Title        | Link      | Key Skill                                          |
 | --------- | ------------ | --------- | -------------------------------------------------- |
 | 1         | 🐚 Linux Shell Script Lab – Shebang, Shell Compatibility & Execution | [📂 Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Shebang-Shell-Compatibility-Script-Execution/tree/main)       | Shebang usage, interpreter selection, Bash vs sh differences, debugging incompatible scripts |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. managing and checking exit codes              |
+| 2         | 🧯 Linux Shell Script Lab – Exit Codes & Error Handling | 📂 [Repo](https://github.com/1suleyman/-Linux-Shell-Script-Lab-Exit-Codes-Error-Handling/tree/main) | Understanding exit statuses ($?), debugging with common codes (0, 126, 127), and using custom exit <code> for automation reliability |
 | 3         | Coming soon… | 📂 Folder | e.g. writing and calling functions                 |
 | 4         | Coming soon… | 📂 Folder | e.g. linting scripts with ShellCheck and IDE tips  |
 
