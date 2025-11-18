@@ -63,7 +63,4 @@ By completing this course, I’ll gain practical skills in:
 
 | Challenge | Title        | Link      | Key Skill                                               |
 | --------- | ------------ | --------- | ------------------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. understanding the e-commerce automation workflow   |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. demoing the full shell-based application           |
-| 3         | Coming soon… | 📂 Folder | e.g. implementing the automation lab                    |
-| 4         | Coming soon… | 📂 Folder | e.g. reviewing and improving the final project solution |
+| 1         | 🛒 Shell Project – Deploying the KodeKloud E-Commerce App with Bash Automation | 📂 [Repo](https://github.com/1suleyman/-Shell-Project-Deploying-the-KodeKloud-E-Commerce-App-with-Bash-Automation/tree/main) | Bash automation, strict mode, Firewalld config, MariaDB setup, Apache/PHP deployment, Git-based app deployment, curl verification |
